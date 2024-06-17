@@ -12,6 +12,6 @@
   "styles": [],
   "packs": [],
   "system": "pf1",
-  "manifest": "https://your-repository-url/module.json",
-  "download": "https://your-repository-url/custom-vehicle-actor.zip"
+  "manifest": "https://github.com/Jet313/ar-skyships/module.json",
+  "download": "https://github.com/Jet313/ar-skyships/ar-skyships.zip"
 }
