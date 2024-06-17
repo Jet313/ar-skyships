@@ -1,0 +1,17 @@
+{
+  "name": "custom-vehicle-actor",
+  "title": "Custom Vehicle Actor",
+  "description": "Adds a custom vehicle actor type for sky ships in Granblue Fantasy campaign.",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "minimumCoreVersion": "0.8.0",
+  "compatibleCoreVersion": "0.8.0",
+  "scripts": [
+    "scripts/vehicle-sheet.js"
+  ],
+  "styles": [],
+  "packs": [],
+  "system": "pf1",
+  "manifest": "https://your-repository-url/module.json",
+  "download": "https://your-repository-url/custom-vehicle-actor.zip"
+}
