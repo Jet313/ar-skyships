@@ -15,6 +15,6 @@
   "styles": [],
   "packs": [],
   "system": "pf1",
-  "manifest": "https://github.com/Jet313/ar-skyships/module.json",
+  "manifest": "https://github.com/Jet313/ar-skyships",
   "download": "https://github.com/Jet313/ar-skyships/ar-skyships.zip"
 }
